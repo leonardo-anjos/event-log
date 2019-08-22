@@ -1,0 +1,14 @@
+{
+  "name": "event-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leonardo-anjos/event-log.git",
+  "author": "Leonardo Anjos <leodrums11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "node-nats-streaming": "^0.2.6",
+    "nuid": "^1.1.0",
+    "pg": "^7.12.0"
+  }
+}
